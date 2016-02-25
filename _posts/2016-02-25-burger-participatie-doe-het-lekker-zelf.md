@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-25T15:27:49.287Z'
-dateModified: '2016-02-25T15:27:22.310Z'
+datePublished: '2016-02-25T15:40:36.040Z'
+dateModified: '2016-02-25T15:40:35.472Z'
 title: 'Burger Participatie, doe het lekker zelf'
 author: []
+sourcePath: _posts/2016-02-25-burger-participatie-doe-het-lekker-zelf.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-25-burger-participatie-doe-het-lekker-zelf.md
-published: true
 url: burger-participatie-doe-het-lekker-zelf/index.html
 _type: Article
 
