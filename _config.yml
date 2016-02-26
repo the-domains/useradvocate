@@ -1,29 +1,41 @@
-name: UserAdvocate
-favicon: null
-layout_spectrum: 0.8907014599535614
-typography_spectrum: 0.9225834596436471
 title: 'Digital Transformation  & Brand Development'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3972431
+  brandStrength: 0.375
+  lightness: 0.3189223
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.375
-  lightness: 0.657163237920031
-  saturation: 0.24518362642265856
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.7788221
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: UserAdvocate
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9028822
+layout_spectrum: 1
