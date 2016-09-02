@@ -1,4 +1,4 @@
-title: 'Digital Transformation  & Brand Development'
+title: Digital Transformation  & Brand Development
 purpose: []
 collections:
   - index:
@@ -6,36 +6,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3972431
   brandStrength: 0.375
   lightness: 0.3189223
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#47667B'
+    - '#DCB498'
+    - '#B56447'
+    - '#969EA0'
+    - '#241F1C'
   rhythmicContrast: 0.7788221
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: UserAdvocate
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.9028822
+typography_spectrum: 0.1509275
 layout_spectrum: 1
